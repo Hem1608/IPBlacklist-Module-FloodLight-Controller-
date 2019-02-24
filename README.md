@@ -1,7 +1,5 @@
-Group Course Project
+Course Project
 
-Team members:
-Hitesh Bhatia classid: #02 (011498318)
 Hemalatha Palanivelu classid:#26 (011814517)
 
 Project title:
